@@ -292,7 +292,7 @@ html {
   gap: 20px;
   margin-left: 180px;
   margin-right: 180px;
-  text-align: center;
+  text-align: start;
     font-family: 'Poppins', sans-serif; 
     color: #777; /* 👈 light greyish text */
   font-weight: 300; /* 👈 makes text lighter */
@@ -306,6 +306,10 @@ html {
   
     
 
+}
+
+#sectionDetails .detail-box p {
+  margin-left: 50px;
 }
 
 /* footer css  */
