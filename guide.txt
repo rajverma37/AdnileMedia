@@ -1,7 +1,7 @@
 how to update website codee
 
 git add . ( it will prepare all new files)
-git commit -m "icon added in document" ( what we change)
+git commit -m "update mail" ( what we change)
 git push
 
 
