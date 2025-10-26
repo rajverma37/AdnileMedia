@@ -1,0 +1,3 @@
+how to update website codee
+
+git add . ( it will prepare all new files)
